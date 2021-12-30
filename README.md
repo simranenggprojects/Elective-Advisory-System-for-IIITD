@@ -40,4 +40,4 @@ the following.
 
 ?- should_take(X).
 
-To get more clarity on input and output, kindly see readme.pdf
+**To get more clarity on input and output, kindly see readme.pdf**
