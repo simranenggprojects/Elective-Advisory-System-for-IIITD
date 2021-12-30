@@ -39,3 +39,5 @@ Now, as said in previous message, so as to have a look at elective that you can 
 the following.
 
 ?- should_take(X).
+
+To get more clarity on input and output, kindly see readme.pdf
